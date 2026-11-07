@@ -1,10 +1,10 @@
-# Talent HUB AISD 🎓💼
+# Talent HUB AISD 
 
 A modern, full-stack Campus Placement Management System designed to streamline campus recruitment drives, student eligibility checks, interview schedules, and transactional offer management.
 
 ---
 
-## 🌟 Key Features
+##  Key Features
 
 - **Role-Based Access Control (RBAC)**: Distinct dashboards and permissions for **Students** and **Placement Officers / Admins**.
 - **Automated Eligibility Engine**:
@@ -20,7 +20,7 @@ A modern, full-stack Campus Placement Management System designed to streamline c
 
 ---
 
-## 🏗️ Architecture & Tech Stack
+##  Architecture & Tech Stack
 
 ### Frontend
 - **Framework**: [React 18](https://react.dev/) + [Vite](https://vitejs.dev/)
@@ -36,7 +36,7 @@ A modern, full-stack Campus Placement Management System designed to streamline c
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 Talent HUB AISD/
@@ -69,7 +69,7 @@ Talent HUB AISD/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - **Python**: 3.10+ installed
@@ -145,7 +145,7 @@ Talent HUB AISD/
 
 ---
 
-## 📜 Business Rules & Domain Logic
+##  Business Rules & Domain Logic
 
 1. **Eligibility Enforcement**:
    A student can only apply if:
@@ -165,6 +165,6 @@ Talent HUB AISD/
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the [MIT License](LICENSE).
